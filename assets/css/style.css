@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/icono-aislado-estilo-del-kawaii-del-recordatorio-del-calendario-82086761.jpg");
+  }
+
+  h1 {
+    font-family: 'Pacifico', cursive;
+    color:rgb(48, 4, 73);
+  }
+
+  p {
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+  }
